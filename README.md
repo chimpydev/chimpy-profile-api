@@ -1,6 +1,6 @@
-# PancakeSwap Profile API
+# ChimpySwap Profile API
 
-Serverless API implementation for PancakeSwap Profile contract
+Serverless API implementation for ChimpySwap Profile contract
 
 # Dependencies
 
